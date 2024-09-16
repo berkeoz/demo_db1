@@ -1,1 +1,6 @@
 ﻿EmployeeID,FirstName,LastName,Department,HASH
+1,John,Doe,IT,21dac70b451145b33b439b92fcb301c4
+2,Jane,Smith,HR,e5353c86f50e37ef1f476149007fdee2
+3,Michael,Brown,Finance,1e7b1b5c380e137b3cd0a3da83337586
+4,Emily,Davis,Marketing,6110019f6cd91b9c8e0174cdc1a62486
+5,William,Johnson,Sales,d5a382787e2f2c61b1055bf915dc63b3
