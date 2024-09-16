@@ -1,1 +1,6 @@
 ﻿DepartmentID,DepartmentName,Manager,HASH
+1,Human Resources,John Doe,6cdb4e994b5b107c2a0a6df636d8a905
+2,Finance,Jane Smith,350d4f630f5efbb5786a9ec4a65e93c2
+3,IT,Michael Johnson,6e5dffc47bb4d8151ae5030c4c91e848
+4,Marketing,Emily Brown,ed1380566b150942bdb9b0f803a00579
+5,Sales,William Davis,9b9835a3b06d9263eadd08df8a8572d6
